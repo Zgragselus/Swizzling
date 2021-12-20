@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/Swizzle/v17
+/Swizzle/x64/Debug
+/Swizzle/x64/Release
+/x64
